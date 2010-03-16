@@ -6,7 +6,7 @@
 % temporary files: 0
 %
 %
-% commands: 19
+% commands: 21
 %
 \thisissectionseparator{-}%
 \thisisutilityversion{2008.10.14}%
@@ -20,7 +20,9 @@
 \initializevariable\usedoutputdriver{pdftex}%
 \initializevariable\usedcolorchannels{r,g,b,s}%
 \mainreference{}{fnt:f:1}{2--0-0-0-0-0-0-0--2}{2}{}%
+\mainreference{}{fnt:f:2}{2--0-0-0-0-0-0-0--2}{2}{}%
 \mainreference{}{fnt:t:1}{2--0-0-0-0-0-0-0--2}{2}{}%
+\mainreference{}{fnt:t:2}{2--0-0-0-0-0-0-0--2}{2}{}%
 \initializevariable\currentstrategypass{1}%
 \initializevariable\totalnofpositions{0}%
 \initializevariable\totalnofMPgraphics{0}%

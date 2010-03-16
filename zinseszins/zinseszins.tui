@@ -717,7 +717,9 @@ s l {unit} {de}
 r l {index} {de}
 c \initializevariable\usedcolorchannels{r,g,b,s}
 c \mainreference{}{fnt:f:1}{2--0-0-0-0-0-0-0--2}{2}{}
+c \mainreference{}{fnt:f:2}{2--0-0-0-0-0-0-0--2}{2}{}
 c \mainreference{}{fnt:t:1}{2--0-0-0-0-0-0-0--2}{2}{}
+c \mainreference{}{fnt:t:2}{2--0-0-0-0-0-0-0--2}{2}{}
 c \initializevariable\currentstrategypass{1}
 c \initializevariable\totalnofpositions{0}
 c \initializevariable\totalnofMPgraphics{0}

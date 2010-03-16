@@ -11,8 +11,9 @@
 \setuphead[subject][color=subjectcolor]
 \setuphead[subject][style={\rm\tfb\bf}]
 \setuphead[title][style={\rm\tfd\bf}]
-\setupbodyfont[sans]
+\setupbodyfont[Lucida,10pt,sans]
 \definetypeface [boldmath] [mm] [boldmath] [latin-modern] [default]
+\defineframed [tightframed] [frameoffset=20pt,backgroundoffset=20pt,autowidth=force,align=middle,nothyphenated,verytolerant]
 
 \enableregime	[utf-8]
 \mainlanguage	[de]
@@ -37,26 +38,35 @@
 \title{Der Zinseszins}
 
 \subject{Was ist Zinseszins?}
-Als Zinseszins wird allgemein {\bf Zins auf Zinsen} bezeichnet.
+Als Zinseszins wird allgemein {\em Zins auf Zinsen} bezeichnet.
 
 Zinseszins entsteht beispielsweise bei Geldanlagen, bei denen Zinsbeträge dem bisherigen Kapital zugeschlagen werden und somit in allen Folgeperioden mitverzinst werden.\footnote{Quelle: http://www.zinsen-berechnen.de/online-rechner/zinseszins.php 26.01.10} 
 
-Der Zins steigt also {\bf exponentiell}
+Der Zins steigt also {\em exponentiell}
 
-Ende Jahres wird  ein fester Zins auf den bereits angefallenen Zins berechnet.
+Am Ende der Abrechnungsperiode (üblicherweise ein Jahr) wird  ein fester Zins auf den bereits angefallenen Zins berechnet.
 
-Dadurch steigen Zinsbeträge viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
+Dadurch steigen die Zinsbeträge nach gewisser Zeit viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
 
-\subject{Wie wird der Zinseszins berechnet?}
-Mithilfe der Zinseszinsrechnung kann man herausfinden, auf welches Endkapital  ${\bf K_n}$  ein Anfangskapital ${\bf K_0}$  nach ${\boldsymbol n}$  Zeiträumen (üblicherweise ein Jahr) angewachsen ist, wenn mit einem festen Zinssatz von ${\bf z}$  verzinst wird.
-Die Formel lautet:
+\subject{Anwendungen}
+Werden Schuldzinsen nicht beglichen, führt dies bei Kreditinstituten zu hohen Zinsen
 
 
+\subject{Ein Beispiel}
+Nehmen wir an Hans M. legt 10'000 Franken bei der Credit Suisse zu einem Zinssatz von 5\% mit Zinseszins an. Der Zins wird jährlich abgerechnet.
+
+Ende Jahres erhält er auf sein Sparkonto 500 Franken gutgeschrieben. Der Betrag auf dem Konto beträgt jetzt 10'500 Franken.
+
+Dieser Zinsbetrag von 500 Franken erhöht sich aber gleichzeitig um diese 5\%. Das wären 25 Franken. Nächstes Jahr werden also statt 500 Franken 525 Franken gutgeschrieben, nach zwei Jahren 551.25 Franken und so weiter.
+
+\subject{Die Formel}
+Wenn man aber herausfinden will auf welches Endkapital ein Anfankskapital mit einem konkreten Zinssatz nach einer bestimmten Anzahl von Auszahlungszeiträumen (üblicherweise ein Jahr) angewachsen ist, geht das am schnellsten mit folgender Formel:
 
 \startformula
-\framed{K_n = K_0(1+z)^n}
+K_n = K_0(1+\frac{z}{100})^n
+   $K_n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = Anzahl der geltenden Zeiträume/Jahre. \footnote{Quelle: http://de.wikipedia.org/wiki/Zinseszins 01.03.10}
 \stopformula
+Angewandt auf unser Beispiel von oben, wenn unser Hans das Geld 25 Jahre mit dem gleichen Zinssatz auf der Bank lässt, steigt sein Kapital auf 33'863.55 Franken um knapp 240\%, wohingegen der sich der Betrag bei gewöhnlichem Zins nur um 125\% auf 22'250 erhöht. Der Zinseszins entfaltet seine volle Wirkung also erst bei längeren Laufzeiten.
 
-
+\subject{Aufgaben}
 \stoptext
-
