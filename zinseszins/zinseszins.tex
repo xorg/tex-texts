@@ -1,0 +1,62 @@
+\setupcolors[state=start]   
+\definecolor[headingcolor][r=0.7,b=0.2, g=0.1],
+\definecolor[subjectcolor][r=0.6,b=0.4, g=0.2],
+\setupheader[style=\rm\sl]
+\setupheadertexts[Mathematik\hfill Stefan Schneider]
+\setupfooter[style=\rm\sl]
+\setupfootertexts[Mathematik\hfill Stefan Schneider]
+%\setuppagenumbering[location={header,right}, style=bold]
+%\setupitemize[inbetween={}, style=bold]
+\setuphead[section,chapter][color=headingcolor]
+\setuphead[subject][color=subjectcolor]
+\setuphead[subject][style={\rm\tfb\bf}]
+\setuphead[title][style={\rm\tfd\bf}]
+\setupbodyfont[sans]
+\definetypeface [boldmath] [mm] [boldmath] [latin-modern] [default]
+
+\enableregime	[utf-8]
+\mainlanguage	[de]
+\setuppapersize[A4] [A4]
+\setuplayout[location=middle,
+  topspace=0.6cm,
+  width=middle,
+  cutspace=2cm,
+  rightmargindistance=0.4cm,
+  leftmargindistance=0.4cm,
+  backspace=2cm,
+  height=fit,
+  rightmargin=0cm,
+  leftmargin=1cm,
+  bottomspace=0.6cm,
+  footer=1.8cm,
+  header=1.8cm,
+  setup=strict] 
+
+\starttext
+
+\title{Der Zinseszins}
+
+\subject{Was ist Zinseszins?}
+Als Zinseszins wird allgemein {\bf Zins auf Zinsen} bezeichnet.
+
+Zinseszins entsteht beispielsweise bei Geldanlagen, bei denen Zinsbeträge dem bisherigen Kapital zugeschlagen werden und somit in allen Folgeperioden mitverzinst werden.\footnote{Quelle: http://www.zinsen-berechnen.de/online-rechner/zinseszins.php 26.01.10} 
+
+Der Zins steigt also {\bf exponentiell}
+
+Ende Jahres wird  ein fester Zins auf den bereits angefallenen Zins berechnet.
+
+Dadurch steigen Zinsbeträge viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
+
+\subject{Wie wird der Zinseszins berechnet?}
+Mithilfe der Zinseszinsrechnung kann man herausfinden, auf welches Endkapital  ${\bf K_n}$  ein Anfangskapital ${\bf K_0}$  nach ${\boldsymbol n}$  Zeiträumen (üblicherweise ein Jahr) angewachsen ist, wenn mit einem festen Zinssatz von ${\bf z}$  verzinst wird.
+Die Formel lautet:
+
+
+
+\startformula
+\framed{K_n = K_0(1+z)^n}
+\stopformula
+
+
+\stoptext
+

@@ -1,0 +1,178 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=cont-en 2010.3.1)  9 MAR 2010 20:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+ (/usr/share/texmf/web2c/natural.tcx)
+**zinseszins.tex \emergencyend
+(./zinseszins.tex
+
+ConTeXt  ver: 2009.08.19 17:10 MKII  fmt: 2010.3.1  int: english/english
+
+system          : cont-new loaded
+(/usr/share/texmf-dist/tex/context/base/cont-new.tex
+systems         : beware: some patches loaded from cont-new.tex
+(/usr/share/texmf-dist/tex/context/base/cont-new.mkii))
+system          : cont-fil loaded
+(/usr/share/texmf-dist/tex/context/base/cont-fil.tex
+loading         : ConTeXt File Synonyms
+)
+system          : cont-sys.rme loaded
+(/usr/share/texmf-dist/tex/context/user/cont-sys.rme
+(/usr/share/texmf-dist/tex/context/base/type-tmf.tex
+(/usr/share/texmf-dist/tex/context/base/type-tmf.mkii))
+(/usr/share/texmf-dist/tex/context/base/type-siz.tex
+(/usr/share/texmf-dist/tex/context/base/type-siz.mkii))
+(/usr/share/texmf-dist/tex/context/base/type-one.tex
+(/usr/share/texmf-dist/tex/context/base/type-one.mkii)))
+system          : zinseszins.top loaded
+(./zinseszins.top)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 gb->ec:ec->8->2:2 fr->texnansi:texnansi->9->2:2 fr->ec:ec->1
+0->2:2 es->ec:ec->11->2:2 ca->ec:ec->12->2:2 it->texnansi:texnansi->13->2:2 it-
+>ec:ec->14->2:2 la->ec:ec->15->2:2 pt->texnansi:texnansi->16->2:2 pt->ec:ec->17
+->2:2 ro->ec:ec->18->2:2 pl->pl0:pl0->19->2:2 pl->ec:ec->20->2:2 pl->qx:qx->21-
+>2:2 cs->il2:il2->22->2:2 cs->ec:ec->23->2:2 sk->il2:il2->24->2:2 sk->ec:ec->25
+->2:2 hr->ec:ec->26->2:2 sl->ec:ec->27->2:2 tr->ec:ec->28->2:2 agr->agr:agr->30
+->2:2 fi->ec:ec->31->2:2 hu->ec:ec->32->2:2 ru->t2a:t2a->34->2:2 uk->t2a:t2a->3
+5->3:3 loaded
+specials        : dvips loaded
+\openout3 = `zinseszins.tui'.
+
+\openout0 = `zinseszins-mpgraph.mp'.
+
+\openout0 = `mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/share/texmf-dist/tex/context/base/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/share/texmf-dist/tex/context/base/spec-fdf.mkii))
+color           : mpcmyk color space is supported
+color           : mpspot color space is supported
+color           : system rgb is global activated
+(./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
+(./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
+(./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
+systems         : begin file zinseszins at line 35
+fonts           : resetting map file list
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-empty.map}
+fonts           : using map file: original-base
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-base.map}
+fonts           : using map file: original-ams-base
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-base.map}
+fonts           : using map file: original-public-lm
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-public-lm.map}
+fonts           : using map file: lm-ec
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
+fonts           : using map file: lm-math
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-math.map}
+fonts           : using map file: lm-rm
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
+fonts           : using map file: original-ams-euler
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-euler.map}
+(/usr/share/texmf-dist/tex/context/base/sort-def.mkii)
+(/usr/share/texmf-dist/tex/context/base/sort-lan.mkii) [1.1]
+title           : - Der Zinseszins
+subject         : - Was ist Zinseszins?
+subject         : - Wie wird der Zinseszins berechnet?
+! Undefined control sequence.
+<recently read> \NR 
+                    
+l.57  \NR
+         
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.58 \framed{K_
+               n = K_0(1+z)^n} \NR
+? 
+! Extra }, or forgotten $.
+l.58 \framed{K_n = K_0(1+z)^n}
+                               \NR
+? 
+! Undefined control sequence.
+l.58 \framed{K_n = K_0(1+z)^n} \NR
+                                  
+? 
+! Undefined control sequence.
+l.59  \NR
+         
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+\stopdisplaymath ...\afterdisplayspace \else \par 
+                                                  \ifvmode \ifdim \parskip >...
+
+\dostopformula ...eter \c!alternative \v!formula }
+                                                  \resetlastlinewidth \nonoi...
+l.60 \stopformula
+                 
+? 
+! Extra }, or forgotten $.
+\dostopformula ...{\??fm \currentformula }\egroup 
+                                                  \hangafter \minusone \hang...
+l.60 \stopformula
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.61 
+     
+? 
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.61 
+     
+? 
+[2.2]
+systems         : end file zinseszins at line 63
+system          : cont-err loaded
+(/usr/share/texmf-dist/tex/context/base/cont-err.tex
+systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
+) )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 57 ({)
+### simple group (level 1) entered at line 57 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1647 strings out of 457151
+ 26862 string characters out of 2543395
+ 4713726 words of memory out of 7144624
+ 41420 multiletter control sequences out of 15000+200000
+ 221238 words of font info for 106 fonts, out of 3000000 for 9000
+ 396 hyphenation exceptions out of 8191
+ 49i,20n,64p,333b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
+/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips
+/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr
+/share/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf-dist/fonts/
+type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi9.p
+fb></usr/share/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/l
+m/lmr9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/
+texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/
+public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss8.pfb></u
+sr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on zinseszins.pdf (2 pages, 181780 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,33 @@
+%
+% loaded files: 1
+%
+% > zinseszins 1
+%
+% temporary files: 0
+%
+%
+% commands: 19
+%
+\thisissectionseparator{-}%
+\thisisutilityversion{2008.10.14}%
+\usedmapfile{=}{original-base}%
+\usedmapfile{=}{original-ams-base}%
+\usedmapfile{=}{original-public-lm}%
+\usedmapfile{=}{lm-ec}%
+\usedmapfile{=}{lm-math}%
+\usedmapfile{=}{lm-rm}%
+\usedmapfile{=}{original-ams-euler}%
+\initializevariable\usedoutputdriver{pdftex}%
+\initializevariable\usedcolorchannels{r,g,b,s}%
+\mainreference{}{fnt:f:1}{2--0-0-0-0-0-0-0--2}{2}{}%
+\mainreference{}{fnt:t:1}{2--0-0-0-0-0-0-0--2}{2}{}%
+\initializevariable\currentstrategypass{1}%
+\initializevariable\totalnofpositions{0}%
+\initializevariable\totalnofMPgraphics{0}%
+\initializevariable\totalnofparbackgrounds{0}%
+\initializevariable\lastpage{2}%
+\initializevariable\lastpagenumber{2}%
+%
+% programs: 0
+%
+\endinput
