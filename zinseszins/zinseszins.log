@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=cont-en 2010.2.27)  16 MAR 2010 23:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=cont-en 2010.2.27)  16 MAR 2010 23:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -82,28 +82,27 @@ fonts           : using map file: original-ams-euler
 (/usr/share/texmf/tex/context/base/sort-lan.mkii) [1.1]
 title           : - Der Zinseszins
 subject         : - Was ist Zinseszins?
-subject         : - Anwendungen
 subject         : - Ein Beispiel
 subject         : - Die Formel
-./zinseszins.tex:70: Display math should end with $$.
+./zinseszins.tex:67: Display math should end with $$.
 <to be read again> 
                    K
-l.70    $K
+l.67    $K
           _n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-./zinseszins.tex:70: Missing $ inserted.
+./zinseszins.tex:67: Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
                    _
-l.70    $K_
+l.67    $K_
            n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./zinseszins.tex:71: Missing $ inserted.
+./zinseszins.tex:68: Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
@@ -113,12 +112,12 @@ you left one out. Proceed, with fingers crossed.
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.71 \stopformula
+l.68 \stopformula
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./zinseszins.tex:71: Display math should end with $$.
+./zinseszins.tex:68: Display math should end with $$.
 <to be read again> 
                    \par 
 \stopdisplaymath ...\afterdisplayspace \else \par 
@@ -126,42 +125,40 @@ you left one out. Proceed, with fingers crossed.
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.71 \stopformula
+l.68 \stopformula
                  
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-subject         : - Aufgaben
 [2.2]
-systems         : end file zinseszins at line 75
+systems         : end file zinseszins at line 72
 system          : cont-err loaded
 (/usr/share/texmf/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
 ) ) 
 Here is how much of TeX's memory you used:
- 1616 strings out of 456423
- 26033 string characters out of 536184
+ 1493 strings out of 456423
+ 23654 string characters out of 536184
  4727531 words of memory out of 7144609
- 42091 multiletter control sequences out of 15000+50000
- 246049 words of font info for 120 fonts, out of 3000000 for 9000
+ 41971 multiletter control sequences out of 15000+50000
+ 218219 words of font info for 96 fonts, out of 3000000 for 9000
  396 hyphenation exceptions out of 8191
  49i,20n,64p,404b,811s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/shar
 e/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmbx7.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmmib
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/font
-s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmsso10.pfb>
+m/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmsso10.pfb>
 
 pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
-Output written on zinseszins.pdf (2 pages, 182973 bytes).
+Output written on zinseszins.pdf (2 pages, 159623 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
