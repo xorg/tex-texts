@@ -1,33 +1,31 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=cont-en 2010.2.27)  16 MAR 2010 23:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=cont-en 2010.3.1)  19 MAR 2010 14:32
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
  (/usr/share/texmf/web2c/natural.tcx)
 **zinseszins.tex \emergencyend
 (./zinseszins.tex
 
-ConTeXt  ver: 2009.11.26 16:28 MKII  fmt: 2010.2.27  int: english/english
+ConTeXt  ver: 2009.08.19 17:10 MKII  fmt: 2010.3.1  int: english/english
 
 system          : cont-new loaded
-(/usr/share/texmf/tex/context/base/cont-new.tex
+(/usr/share/texmf-dist/tex/context/base/cont-new.tex
 systems         : beware: some patches loaded from cont-new.tex
-(/usr/share/texmf/tex/context/base/cont-new.mkii))
+(/usr/share/texmf-dist/tex/context/base/cont-new.mkii))
 system          : cont-fil loaded
-(/usr/share/texmf/tex/context/base/cont-fil.tex
+(/usr/share/texmf-dist/tex/context/base/cont-fil.tex
 loading         : ConTeXt File Synonyms
 )
 system          : cont-sys.rme loaded
-(/etc/texmf/tex/context/user/cont-sys.rme
-(/usr/share/texmf/tex/context/base/type-tmf.tex
-(/usr/share/texmf/tex/context/base/type-tmf.mkii))
-(/usr/share/texmf/tex/context/base/type-siz.tex
-(/usr/share/texmf/tex/context/base/type-siz.mkii))
-(/usr/share/texmf/tex/context/base/type-one.tex
-(/usr/share/texmf/tex/context/base/type-one.mkii)))
+(/usr/share/texmf-dist/tex/context/user/cont-sys.rme
+(/usr/share/texmf-dist/tex/context/base/type-tmf.tex
+(/usr/share/texmf-dist/tex/context/base/type-tmf.mkii))
+(/usr/share/texmf-dist/tex/context/base/type-siz.tex
+(/usr/share/texmf-dist/tex/context/base/type-siz.mkii))
+(/usr/share/texmf-dist/tex/context/base/type-one.tex
+(/usr/share/texmf-dist/tex/context/base/type-one.mkii)))
 system          : zinseszins.top loaded
-(./zinseszins.top
-)
+(./zinseszins.top)
 bodyfont        : 12pt rm is loaded
 language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
 ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
@@ -49,60 +47,56 @@ specials        : dvips loaded
 systems         : system commands are enabled
 language        : language en is active
 specials        : loading definition file tpd
-(/usr/share/texmf/tex/context/base/spec-tpd.mkii
+(/usr/share/texmf-dist/tex/context/base/spec-tpd.mkii
 specials        : loading definition file fdf
-(/usr/share/texmf/tex/context/base/spec-fdf.mkii))
+(/usr/share/texmf-dist/tex/context/base/spec-fdf.mkii))
 color           : mpcmyk color space is supported
 color           : mpspot color space is supported
 color           : system rgb is global activated
-(/usr/share/texmf/tex/context/base/type-pre.tex) (./zinseszins.tuo)
+(/usr/share/texmf-dist/tex/context/base/type-pre.tex) (./zinseszins.tuo)
 (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
 (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
-(./zinseszins.tuo) (./zinseszins.tuo)
-publications    : file zinseszins.bbl not found, waiting for bibtex
-(./zinseszins.tuo)
-systems         : begin file zinseszins at line 36
+(./zinseszins.tuo) (./zinseszins.tuo) (./zinseszins.tuo)
+systems         : begin file zinseszins at line 51
 fonts           : resetting map file list
-{/usr/share/texmf/fonts/map/pdftex/context/original-empty.map}
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-empty.map}
 fonts           : using map file: original-base
-{/usr/share/texmf/fonts/map/pdftex/context/original-base.map}
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-base.map}
 fonts           : using map file: original-ams-base
-{/usr/share/texmf/fonts/map/pdftex/context/original-ams-base.map}
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-base.map}
 fonts           : using map file: original-public-lm
-{/usr/share/texmf/fonts/map/pdftex/context/original-public-lm.map}
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-public-lm.map}
 fonts           : using map file: lm-ec
-{/usr/share/texmf/fonts/map/dvips/lm/lm-ec.map}
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
 fonts           : using map file: lm-math
-{/usr/share/texmf/fonts/map/dvips/lm/lm-math.map}
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-math.map}
 fonts           : using map file: lm-rm
-{/usr/share/texmf/fonts/map/dvips/lm/lm-rm.map}
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
 fonts           : using map file: original-ams-euler
-{/usr/share/texmf/fonts/map/pdftex/context/original-ams-euler.map}
-(/usr/share/texmf/tex/context/base/sort-def.mkii)
-(/usr/share/texmf/tex/context/base/sort-lan.mkii) [1.1]
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-euler.map}
+(/usr/share/texmf-dist/tex/context/base/sort-def.mkii)
+(/usr/share/texmf-dist/tex/context/base/sort-lan.mkii) [1.1]
 title           : - Der Zinseszins
 subject         : - Was ist Zinseszins?
 subject         : - Ein Beispiel
 subject         : - Die Formel
-./zinseszins.tex:67: Display math should end with $$.
+! Display math should end with $$.
 <to be read again> 
                    K
-l.67    $K
+l.80    $K
           _n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
 
-./zinseszins.tex:67: Missing $ inserted.
+? 
+! Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
                    _
-l.67    $K_
+l.80    $K_
            n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-./zinseszins.tex:68: Missing $ inserted.
+? 
+! Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
@@ -112,12 +106,10 @@ you left one out. Proceed, with fingers crossed.
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.68 \stopformula
+l.81 \stopformula
                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./zinseszins.tex:68: Display math should end with $$.
+? 
+! Display math should end with $$.
 <to be read again> 
                    \par 
 \stopdisplaymath ...\afterdisplayspace \else \par 
@@ -125,37 +117,37 @@ you left one out. Proceed, with fingers crossed.
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.68 \stopformula
+l.81 \stopformula
                  
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
+? 
+subject         : - Aufgaben
 [2.2]
-systems         : end file zinseszins at line 72
+systems         : end file zinseszins at line 85
 system          : cont-err loaded
-(/usr/share/texmf/tex/context/base/cont-err.tex
+(/usr/share/texmf-dist/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
 ) ) 
 Here is how much of TeX's memory you used:
- 1493 strings out of 456423
- 23654 string characters out of 536184
- 4727531 words of memory out of 7144609
- 41971 multiletter control sequences out of 15000+50000
+ 1483 strings out of 457151
+ 23693 string characters out of 2543395
+ 4713725 words of memory out of 7144623
+ 41246 multiletter control sequences out of 15000+200000
  218219 words of font info for 96 fonts, out of 3000000 for 9000
  396 hyphenation exceptions out of 8191
  49i,20n,64p,404b,811s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/d
-vips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/shar
-e/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmsso10.pfb>
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/f
+onts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit
+.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-
+dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public
+/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1
+/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></u
+sr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/lm/lmss8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso
+10.pfb>
 
 pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
-Output written on zinseszins.pdf (2 pages, 159623 bytes).
+Output written on zinseszins.pdf (2 pages, 161057 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream

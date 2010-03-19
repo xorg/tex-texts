@@ -1,22 +1,37 @@
+% Color setup
 \setupcolors[state=start]   
 \definecolor[headingcolor][r=0.7,b=0.2, g=0.1],
 \definecolor[subjectcolor][r=0.6,b=0.4, g=0.2],
+
+% Header & Footer setup 
 \setupheader[style=\rm\sl]
 \setupheadertexts[Mathematik\hfill Stefan Schneider]
 \setupfooter[style=\rm\sl]
 \setupfootertexts[Mathematik\hfill Stefan Schneider]
+
+% Pagenumbering disabled, not necessary for one page
 %\setuppagenumbering[location={header,right}, style=bold]
 %\setupitemize[inbetween={}, style=bold]
+
+% Title style setup
 \setuphead[section,chapter][color=headingcolor]
 \setuphead[subject][color=subjectcolor]
 \setuphead[subject][style={\rm\tfb\bf}]
 \setuphead[title][style={\rm\tfd\bf}]
+
+% Font setup
 \setupbodyfont[Lucida,10pt,sans]
+\setupbodyfontenvironment [default]
+
+% Math settings
 \definetypeface [boldmath] [mm] [boldmath] [latin-modern] [default]
 \defineframed [tightframed] [frameoffset=20pt,backgroundoffset=20pt,autowidth=force,align=middle,nothyphenated,verytolerant]
 
+% Language settings
 \enableregime	[utf-8]
 \mainlanguage	[de]
+
+% Layout settings
 \setuppapersize[A4] [A4]
 \setuplayout[location=middle,
   topspace=0.6cm,
@@ -44,13 +59,11 @@ Zinseszins entsteht beispielsweise bei Geldanlagen, bei denen Zinsbeträge dem b
 
 Der Zins steigt also {\em exponentiell}
 
-Am Ende der Abrechnungsperiode (üblicherweise ein Jahr) wird  ein fester Zins auf den bereits angefallenen Zins berechnet.
+Am Ende der Abrechnungsperiode (üblicherweise ein Jahr) wird  der fester Zins auf den bereits angefallenen Zins berechnet, und dieser dann dem Kapital zugeschlagen.
 
 Dadurch steigen die Zinsbeträge nach gewisser Zeit viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
 
-%\subject{Anwendungen}
-%Werden Schuldzinsen nicht beglichen, führt dies bei Kreditinstituten zu hohen Zinsen
-
+Der Zinseszins-Effekt wird oft bei Kreditinstituten verwendet um die Gläubiger zu möglichst raschem Zahlen der Schulden zu drängen.
 
 \subject{Ein Beispiel}
 Nehmen wir an Hans M. legt 10'000 Franken bei der Credit Suisse zu einem Zinssatz von 5\% mit Zinseszins an. Der Zins wird jährlich abgerechnet.
@@ -68,5 +81,5 @@ K_n = K_0(1+\frac{z}{100})^n
 \stopformula
 Angewandt auf unser Beispiel von oben, wenn unser Hans das Geld 25 Jahre mit dem gleichen Zinssatz auf der Bank lässt, steigt sein Kapital auf 33'863.55 Franken um knapp 240\%, wohingegen der sich der Betrag bei gewöhnlichem Zins nur um 125\% auf 22'250 erhöht. Der Zinseszins entfaltet seine volle Wirkung also erst bei längeren Laufzeiten.
 
-%\subject{Aufgaben}
+\subject{Aufgaben}
 \stoptext
