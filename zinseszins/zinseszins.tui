@@ -715,6 +715,7 @@ s l {abbreviation} {de}
 s l {logo} {de}
 s l {unit} {de}
 r l {index} {de}
+c \twopassentry{list}{1}{1::1:2:n:0}
 c \initializevariable\usedcolorchannels{r,g,b,s}
 c \mainreference{}{fnt:f:1}{2--0-0-0-0-0-0-0--2}{2}{}
 c \mainreference{}{fnt:f:2}{2--0-0-0-0-0-0-0--2}{2}{}
