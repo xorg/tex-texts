@@ -1,52 +1,6 @@
-% Color setup
-\setupcolors[state=start]   
-\definecolor[headingcolor][r=0.7,b=0.2, g=0.1],
-\definecolor[subjectcolor][r=0.6,b=0.4, g=0.2],
+% Environment
+\environment short_text
 
-% Header & Footer setup 
-\setupheader[style=\rm\sl]
-\setupheadertexts[Mathematik\hfill Stefan Schneider]
-\setupfooter[style=\rm\sl]
-\setupfootertexts[Mathematik\hfill Stefan Schneider]
-
-% Pagenumbering disabled, not necessary for one page
-%\setuppagenumbering[location={header,right}, style=bold]
-%\setupitemize[inbetween={}, style=bold]
-
-% Title style setup
-\setuphead[section,chapter][color=headingcolor]
-\setuphead[subject][color=subjectcolor]
-\setuphead[subject][style={\rm\tfb\bf}]
-\setuphead[title][style={\rm\tfd\bf}]
-
-% Font setup
-\setupbodyfont[Lucida,10pt,sans]
-\setupbodyfontenvironment [default]
-
-% Math settings
-\definetypeface [boldmath] [mm] [boldmath] [latin-modern] [default]
-\defineframed [tightframed] [frameoffset=20pt,backgroundoffset=20pt,autowidth=force,align=middle,nothyphenated,verytolerant]
-
-% Language settings
-\enableregime	[utf-8]
-\mainlanguage	[de]
-
-% Layout settings
-\setuppapersize[A4] [A4]
-\setuplayout[location=middle,
-  topspace=0.6cm,
-  width=middle,
-  cutspace=2cm,
-  rightmargindistance=0.4cm,
-  leftmargindistance=0.4cm,
-  backspace=2cm,
-  height=fit,
-  rightmargin=0cm,
-  leftmargin=1cm,
-  bottomspace=0.6cm,
-  footer=1.8cm,
-  header=1.8cm,
-  setup=strict] 
 
 \starttext
 
@@ -84,6 +38,17 @@ Angewandt auf unser Beispiel von oben, wenn unser Hans das Geld 25 Jahre mit dem
 \subject{Aufgaben}
 \startitemize[n]
 \item Bausparer Bruno will Geld für ein neues Haus anlegen. 
-\item Aufgabe 2:
+Dazu stehen ihm 150'000.- zur Verfügung.
+Seine Bank macht ihm zwei Angebote: 
+
+a) Das Geld wird mit linearer Verzinsung zu einem festen Zinssatz von 7.5\% angelegt.
+
+b) Ein weiteres Angebot der Bank ist, das Geld zu einem 5\%igen Zinseszins anzulegen.
+
+Bruno hat 25 Jahre zeit zu sparen. (Tipp: Die Formel für lineare Verzinsung lautet: $K_0(1+\frac{z}{100}n)$)
+
+
+Welches Angebot lohnt sich mehr?
+
 \stopitemize
 \stoptext
