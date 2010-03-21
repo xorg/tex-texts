@@ -1,11 +1,15 @@
 % zinseszins.top
 \unprotect
-\setupsystem[\c!n=1,\c!m=1]
+\nonstopmode
 \def\MPOSTformatswitch{-progname=metafun -mem=}
+\setupsystem[\c!n=1,\c!m=1]
 \setupsystem[\c!method=2]
 \setupsystem[\c!type=linux]
-\setupoutput[pdftex]
-\setupsystem[\c!random=899]
+\setupsystem[\c!random=572]
 \setupsystem[inputfile=zinseszins.tex]
-\protect
-\endinput
+\startsetups *runtime:options
+\setupoutput[pdftex]
+\stopsetups
+\startsetups *runtime:modules
+\stopsetups
+\protect \endinput
