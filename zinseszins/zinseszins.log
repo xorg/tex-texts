@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=cont-en 2010.3.16)  21 MAR 2010 00:56
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=cont-en 2010.3.16)  21 MAR 2010 01:07
 entering extended mode
  %&-line parsing enabled.
  (/usr/share/texmf/web2c/natural.tcx)
@@ -153,7 +153,7 @@ l.35 \stopformula
 ? 
 subject         : - Aufgaben
 [2.2]
-systems         : end file zinseszins at line 54
+systems         : end file zinseszins at line 56
 system          : cont-err loaded
 (/usr/share/texmf/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
@@ -161,7 +161,7 @@ systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
 Here is how much of TeX's memory you used:
  1785 strings out of 57603
  29174 string characters out of 553749
- 4605269 words of memory out of 5534212
+ 4605404 words of memory out of 5534347
  41322 multiletter control sequences out of 10000+50000
  220091 words of font info for 96 fonts, out of 1200000 for 2000
  192 hyphenation exceptions out of 8191
@@ -175,7 +175,7 @@ f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
 ype1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsso10.pfb>
-Output written on zinseszins.pdf (2 pages, 167723 bytes).
+Output written on zinseszins.pdf (2 pages, 167830 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream

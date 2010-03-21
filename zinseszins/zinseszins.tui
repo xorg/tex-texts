@@ -721,7 +721,7 @@ s l {logo} {de}
 s l {unit} {de}
 r l {index} {de}
 c \initializevariable\usedcolorchannels{s}
-c \twopassentry{list}{1}{1::1:1:n:0}
+c \twopassentry{list}{1}{1::1:2:n:0}
 c \initializevariable\currentstrategypass{1}
 c \initializevariable\totalnofpositions{2}
 c \pospxywhd{text:2}{2}{56.9055pt}{68.28687pt}{483.69687pt}{708.47311pt}{0.0pt}
