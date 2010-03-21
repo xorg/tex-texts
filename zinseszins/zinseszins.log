@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=cont-en 2010.2.27)  21 MAR 2010 01:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=cont-en 2010.2.27)  21 MAR 2010 01:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,7 +135,7 @@ So I shall assume that you typed `$$' both times.
 
 subject         : - Aufgaben
 [2.2]
-systems         : end file zinseszins at line 56
+systems         : end file zinseszins at line 57
 system          : cont-err loaded
 (/usr/share/texmf/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
@@ -143,7 +143,7 @@ systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
 Here is how much of TeX's memory you used:
  1516 strings out of 456423
  23962 string characters out of 536184
- 4727615 words of memory out of 7144693
+ 4727616 words of memory out of 7144694
  41991 multiletter control sequences out of 15000+50000
  218219 words of font info for 96 fonts, out of 3000000 for 9000
  396 hyphenation exceptions out of 8191
@@ -159,7 +159,7 @@ usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsso10.pfb>
 
 pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
-Output written on zinseszins.pdf (2 pages, 166217 bytes).
+Output written on zinseszins.pdf (2 pages, 166213 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
