@@ -1,5 +1,6 @@
 c \thisissectionseparator{-}
-c \thisisutilityversion{2008.10.14}
+c \thisisutilityversion{2006.09.21}
+c \thisisbytesequence{À}
 f b {short_text}
 f e {short_text}
 f b {zinseszins}
@@ -9,8 +10,10 @@ c \usedmapfile{=}{original-public-lm}
 c \usedmapfile{=}{lm-ec}
 c \usedmapfile{=}{lm-math}
 c \usedmapfile{=}{lm-rm}
+c \usedmapfile{=}{8r-base}
+c \usedmapfile{=}{ec-base}
+c \usedmapfile{=}{t5-base}
 c \usedmapfile{=}{original-ams-euler}
-c \initializevariable\usedoutputdriver{pdftex}
 x s {} { } {\nonbreakablespace }
 x s {} {¡} {\exclamdown }
 x s {} {¢} {\textcent }
@@ -717,16 +720,19 @@ s l {abbreviation} {de}
 s l {logo} {de}
 s l {unit} {de}
 r l {index} {de}
+c \initializevariable\usedcolorchannels{s}
 c \twopassentry{list}{1}{1::1:2:n:0}
-c \initializevariable\usedcolorchannels{r,g,b,s}
+c \initializevariable\currentstrategypass{1}
+c \initializevariable\totalnofpositions{2}
+c \pospxywhd{text:2}{2}{56.9055pt}{68.28687pt}{483.69687pt}{708.47311pt}{0.0pt}
 c \mainreference{}{fnt:f:1}{2--0-0-0-0-0-0-0--2}{2}{}
 c \mainreference{}{fnt:f:2}{2--0-0-0-0-0-0-0--2}{2}{}
+c \pospxy{margin:1}{2}{56.9055pt}{78.24225pt}
 c \mainreference{}{fnt:t:1}{2--0-0-0-0-0-0-0--2}{2}{}
+c \pospxy{margin:2}{2}{56.9055pt}{68.28687pt}
 c \mainreference{}{fnt:t:2}{2--0-0-0-0-0-0-0--2}{2}{}
-c \initializevariable\currentstrategypass{1}
-c \initializevariable\totalnofpositions{0}
-c \initializevariable\totalnofMPgraphics{0}
-c \initializevariable\totalnofparbackgrounds{0}
 f e {zinseszins}
 c \initializevariable\lastpage{2}
 c \initializevariable\lastpagenumber{2}
+c \initializevariable\totalnofMPgraphics{0}
+c \initializevariable\totalnofparbackgrounds{0}
