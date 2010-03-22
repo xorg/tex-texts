@@ -1,0 +1,22 @@
+%
+% loaded files: 1
+%
+% > short_text 1
+%
+% temporary files: 0
+%
+%
+% commands: 8
+%
+\thisissectionseparator{-}%
+\thisisutilityversion{2008.10.14}%
+\initializevariable\currentstrategypass{1}%
+\initializevariable\totalnofpositions{0}%
+\initializevariable\totalnofMPgraphics{0}%
+\initializevariable\totalnofparbackgrounds{0}%
+\initializevariable\lastpage{0}%
+\initializevariable\lastpagenumber{0}%
+%
+% programs: 0
+%
+\endinput

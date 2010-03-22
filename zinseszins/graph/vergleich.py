@@ -20,10 +20,9 @@ def simple(P,z):
         range_y.append(e)
     return range_y 
 
-from matplotlib import rcParams
 
 comp = plt.plot(numpy.arange(1,50,0.1), compound(100, 0.09), lw=2.3, c="purple", aa="True")
-simp = plt.plot(numpy.arange(1,50,0.1), simple(100, 0.09), lw=2.3, c="blue", aa="True")
+simp = plt.plot(numpy.arange(1,50,0.1), simple(100, 0.09), lw=2.3, c="orange", aa="True")
 plt.legend([comp,simp], ["Zinseszins", "einfacher Zins"])
 plt.ylabel("Kapital")
 plt.xlabel("Jahre")

@@ -13,10 +13,7 @@ Zinseszins entsteht beispielsweise bei Geldanlagen, bei denen Zinsbeträge dem b
 
 Der Zinseszins-Effekt wird oft bei Kreditinstituten verwendet um die Gläubiger zu möglichst raschem Zahlen der Schulden zu drängen, da die Zinsen beim Zinseszins {\em exponentiell} steigen.
 
-
-
 Am Ende der Abrechnungsperiode (üblicherweise ein Jahr) wird  der fester Zins auf den bereits angefallenen Zins berechnet, und dieser dann dem Kapital zugeschlagen.
-
 Dadurch steigen die Zinsbeträge nach gewisser Zeit viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
 
 
@@ -35,9 +32,21 @@ Wenn man aber herausfinden will auf welches Endkapital ein Anfankskapital mit ei
 K_n = K_0(1+\frac{z}{100})^n
    $K_n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = Anzahl der geltenden Zeiträume/Jahre. \footnote{Quelle: http://de.wikipedia.org/wiki/Zinseszins 01.03.10}
 \stopformula
-Angewandt auf unser Beispiel von oben, wenn unser Hans das Geld 25 Jahre mit dem gleichen Zinssatz auf der Bank lässt, steigt sein Kapital auf 33'863.55 Franken um knapp 240\%, wohingegen der sich der Betrag bei gewöhnlichem Zins nur um 125\% auf 22'250 erhöht. {\em Der Zinseszins entfaltet seine volle Wirkung also erst bei längeren Laufzeiten.}
+Wenden wir einmal diese Formel auf unser Beispiel von vorher an.
+\startformula
+K_2_5=10'000(1+\frac{5\%}{100})^2^5=33'863.55
+\stopformula
+Wenn unser Hans also das Geld 25 Jahre mit dem gleichen Zinssatz auf der Bank lässt, steigt sein Kapital auf 33'863.55 Franken um knapp 240\%, wohingegen der sich der Betrag bei gewöhnlichem Zins nur um 125\% auf 22'250 erhöht.  Der Zinseszins entfaltet seine volle Wirkung also erst bei {\em längeren Laufzeiten.}
 
-{\em Eine Anmerkung: Der effektive Zinssatz ist leicht höher wenn man mehrmals pro Jahr abrechnet.} 
+{\em Eine Anmerkung: Der effektive Zinssatz verändert sich leicht wenn man mehrmals pro Jahr abrechnet.} 
+
+\subject{Unterschied zwischen einfachem Zins und Zinseszins}
+Wie ihr vielleicht schon gemerkt habt, ist die Besonderheit des Zinseszins die, dass er nicht linear steigt, sondern exponentiell.
+Der einfache (auch linearer Zins genannte) Zins hingegen steigt immer um den gleichen Betrag, also Linear.
+
+Dabei wird bei beiden Verzinsungen davon ausgegangen, dass der Zins am Ende der Verrechnungsperiode vom Kapital herausgenommen wird, dann das Kapital (bzw. der Zins beim Zinseszins) verzinst wird und der ganze Zins wieder dem Kapital zugefügt wird. 
+
+\placefigure[fig:bla]{Vergleich von einfachem Zins und Zinseszins bei 100.- Startkapital und 9\% Zinsen}{\externalfigure[comparison2][scale=40, factor=fit, method=eps]}
 
 \subject{Aufgaben}
 \startitemize[n]

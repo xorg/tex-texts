@@ -1,9 +1,10 @@
 \startenvironment short_text
 
 % Color setup
-\setupcolors[state=start]   
-\definecolor[headingcolor][r=0.7,b=0.2, g=0.1],
-\definecolor[subjectcolor][r=0.6,b=0.4, g=0.2],
+\setupcolors[state=start]
+\setupcolor[hex]
+\definecolor[headingcolor][h=4D534D]
+\definecolor[subjectcolor][h=FE6B3F]
 
 % Header & Footer setup 
 \setupheader[style=\rm\sl]
@@ -16,10 +17,13 @@
 %\setupitemize[inbetween={}, style=bold]
 
 % Title style setup
+\def\ruler#1#2% #1 is number, #2 is text
+  {\framed[frame=off,bottomframe=on,topframe=off]
+       {\vbox{\headtext{chapter} #1\blank#2}}} % \vbox is needed for \blank to work
 \setuphead[section,chapter][color=headingcolor]
 \setuphead[subject][color=subjectcolor]
 \setuphead[subject][style={\rm\tfb\bf}]
-\setuphead[title][style={\rm\tfd\bf}]
+\setuphead[title][command=\ruler, style={\rm\tfd\bf}]
 
 % Font setup
 \setupbodyfont[Lucida,10pt,sans]
@@ -49,4 +53,7 @@
   footer=1.8cm,
   header=1.8cm,
   setup=strict] 
+
+% Graphics setup
+\setupexternalfigures[directory={./graph}]
 \stopenvironment
