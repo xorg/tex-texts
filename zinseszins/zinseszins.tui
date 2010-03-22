@@ -3,7 +3,6 @@ c \thisisutilityversion{2008.10.14}
 f b {short_text}
 f e {short_text}
 f b {zinseszins}
-e p {texmfstart rlxtools --identify ./graph/comparison2.eps}
 c \usedmapfile{=}{original-base}
 c \usedmapfile{=}{original-ams-base}
 c \usedmapfile{=}{original-public-lm}
@@ -11,7 +10,7 @@ c \usedmapfile{=}{lm-ec}
 c \usedmapfile{=}{lm-math}
 c \usedmapfile{=}{lm-rm}
 c \usedmapfile{=}{original-ams-euler}
-c \initializevariable\usedoutputdriver{dvips}
+c \initializevariable\usedoutputdriver{pdftex}
 x s {} { } {\nonbreakablespace }
 x s {} {¡} {\exclamdown }
 x s {} {¢} {\textcent }

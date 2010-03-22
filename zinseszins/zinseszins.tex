@@ -10,43 +10,46 @@
 Als Zinseszins wird allgemein {\em Zins auf Zinsen} bezeichnet.
 
 Zinseszins entsteht beispielsweise bei Geldanlagen, bei denen Zinsbeträge dem bisherigen Kapital zugeschlagen werden und somit in allen Folgeperioden mitverzinst werden.\footnote{Quelle: http://www.zinsen-berechnen.de/online-rechner/zinseszins.php 26.01.10} 
+Zinseszins entsteht eigentlich bei allen Sparkonten auf Banken oder Darlehensschulden bei Firmen. Wo genau Zinseszins verwendet wird und wo nicht, erkläre ich weiter unten.
 
-Der Zinseszins-Effekt wird oft bei Kreditinstituten verwendet um die Gläubiger zu möglichst raschem Zahlen der Schulden zu drängen, da die Zinsen beim Zinseszins {\em exponentiell} steigen.
-
-Am Ende der Abrechnungsperiode (üblicherweise ein Jahr) wird  der fester Zins auf den bereits angefallenen Zins berechnet, und dieser dann dem Kapital zugeschlagen.
-Dadurch steigen die Zinsbeträge nach gewisser Zeit viel schneller als ohne  Zinseszins. Das kann bei Zinsen auf Geldanlagen nützlich sein, ist aber auch eine grosse Gefahr bei Schulden.
-
+Der Zinseszins-Effekt ist oft bei Schulden gefährlich, weil dort die Schulden zuerst langsam steigen, dann aber schnell ausser Kontrolle geraten können, da die Zinsen beim Zinseszins {\em exponentiell} steigen.
 
 \subject{Ein Beispiel}
-Nehmen wir an Hans M. legt 10'000 Franken bei der Credit Suisse zu einem Zinssatz von 5\% mit Zinseszins an. Der Zins wird jährlich abgerechnet.
+Nehmen wir an Hans M. legt 1000 Franken bei der Bank zu einem Zinssatz von 2\% mit Zinseszins an. Der Zins wird jährlich abgerechnet.
 
 
-Ende Jahres erhält er auf sein Sparkonto 500 Franken gutgeschrieben. Der Betrag auf dem Konto beträgt jetzt 10'500 Franken.
+Ende des ersten Jahres erhält er auf sein Sparkonto 20 Franken gutgeschrieben. Der Betrag auf dem Konto beträgt jetzt 10'020 Franken.
 
-Dieser Zinsbetrag von 500 Franken erhöht sich aber gleichzeitig um diese 5\%. Das wären 25 Franken. Nächstes Jahr werden also statt 500 Franken 525 Franken gutgeschrieben, nach zwei Jahren 551.25 Franken und so weiter. Es wird jeweils nur der Zins verzinst und nicht das ganze Kapital. Der Zins wird also Ende des Jahres aus dem Kapital entnommen, verzinst und dem Kapital wieder hinzugefügt.
+Ende des zweiten Jahres werden nun zusätzlich zu den 20 Fr. noch 2\% von den 20 Fr. zugeschlagen, das neue Kapital beträgt also 1040.40 Franken.
 
 \subject{Die Formel}
-Wenn man aber herausfinden will auf welches Endkapital ein Anfankskapital mit einem konkreten Zinssatz nach einer bestimmten Anzahl von Auszahlungszeiträumen (üblicherweise ein Jahr) angewachsen ist, geht das am schnellsten mit folgender Formel:
+Wenn man  herausfinden will auf welches Endkapital ein Anfankskapital mit einem konkreten Zinssatz nach einer bestimmten Anzahl von Auszahlungszeiträumen (üblicherweise ein Jahr) angewachsen ist, geht das am schnellsten mit folgender Formel:
 
 \startformula
 K_n = K_0(1+\frac{z}{100})^n
-   $K_n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = Anzahl der geltenden Zeiträume/Jahre. \footnote{Quelle: http://de.wikipedia.org/wiki/Zinseszins 01.03.10}
+   $K_n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = Anzahl der geltenden Zeiträume/Jahre.
 \stopformula
+Die Formel rürt daher, dass zuerst der Zins für ein Jahr ausgerechnet wird, mit dem anfänglichen Startkapital addiert wird, und dann das enstandene (Zwischen)Endkapital des ersten Jahres als Anfangskapital für das nächste Jahr verwendet wird. Also $K_0(1+\frac{z}{100})(1+\frac{z}{100})=K_0(1+\frac{z}{100})^2$ was dann $K_n = K_0(1+\frac{z}{100})^n$ ergibt.\footnote{Quelle: http://de.wikipedia.org/wiki/Zinseszins 01.03.10}
+
+
+
 Wenden wir einmal diese Formel auf unser Beispiel von vorher an.
 \startformula
-K_2_5=10'000(1+\frac{5\%}{100})^2^5=33'863.55
+K_2_5=1'000(1+\frac{2\%}{100})^5^0=2691.60
 \stopformula
-Wenn unser Hans also das Geld 25 Jahre mit dem gleichen Zinssatz auf der Bank lässt, steigt sein Kapital auf 33'863.55 Franken um knapp 240\%, wohingegen der sich der Betrag bei gewöhnlichem Zins nur um 125\% auf 22'250 erhöht.  Der Zinseszins entfaltet seine volle Wirkung also erst bei {\em längeren Laufzeiten.}
+Wenn unser Hans also das Geld 25 Jahre mit festem Zinssatz anlegt, steigt sein Kapital also auf {\em 2691.60}. Der Zinseszins entfaltet seine volle Wirkung also erst bei  {\em längeren Laufzeiten.}
 
 {\em Eine Anmerkung: Der effektive Zinssatz verändert sich leicht wenn man mehrmals pro Jahr abrechnet.} 
 
 \subject{Unterschied zwischen einfachem Zins und Zinseszins}
 Wie ihr vielleicht schon gemerkt habt, ist die Besonderheit des Zinseszins die, dass er nicht linear steigt, sondern exponentiell.
-Der einfache (auch linearer Zins genannte) Zins hingegen steigt immer um den gleichen Betrag, also Linear.
 
-Dabei wird bei beiden Verzinsungen davon ausgegangen, dass der Zins am Ende der Verrechnungsperiode vom Kapital herausgenommen wird, dann das Kapital (bzw. der Zins beim Zinseszins) verzinst wird und der ganze Zins wieder dem Kapital zugefügt wird. 
+Das kommt daher dass bei der einfachen Verzinsung der Zinsbetrag des Anfangkapitals jedes Jahr addiert wird und sich nicht verändert. Also wenn man ein Startkapital von 1000 Franken zu einem Zinsatz von 5\% linear verzinst, ergibt das bei 5 Jahren Laufzeit ein Endkapital von 1500.- .
 
-\placefigure[fig:bla]{Vergleich von einfachem Zins und Zinseszins bei 100.- Startkapital und 9\% Zinsen}{\externalfigure[comparison2][scale=40, factor=fit, method=eps]}
+Einfache Verzinsung wird eigentlich nur bei private Geldgeschäften verwendet, da dort Zinseszinsen verboten sind. Überall, wo Firmen im Spiel sind, werden heutzutage Zinseszinsen verwendet.
+
+Hier noch ein kleiner Vergleich der Entwicklung eines Kapitals mit linearer und exponentieller Verzinsung.
+\placefigure[fig:bla]{Vergleich von einfachem Zins und Zinseszins bei 100.- Startkapital und 9\% Zinsen}{\externalfigure[comparison][scale=40, factor=fit, method=pdf]}
 
 \subject{Aufgaben}
 \startitemize[n]
@@ -63,8 +66,8 @@ Bruno hat 25 Jahre Zeit zu sparen. (Tipp: Die Formel für lineare Verzinsung lau
 
 Welches Angebot lohnt sich mehr?
 
-\item Susi hat in 13 Jahren ihr Kapital von 2463.50 Fr. auf 6384.30 Fr. erhöht.
+\item Susi hat in 13 Jahren ihr Kapital mit einem Zinssatz von 5\% auf 6384.30 Fr. erhöht.
 
-Bei welchem Zinssatz wurde das Geld angelegt? (Das Geld wurde mit Zinseszins verzinst)
+Wieviel Geld hatte Susi vor diesen 13 Jahren auf dem Konto? (Das Geld wurde mit Zinseszins verzinst)
 \stopitemize
 \stoptext

@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=cont-en 2010.3.1)  22 MAR 2010 15:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=cont-en 2010.3.1)  22 MAR 2010 21:24
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
  (/usr/share/texmf/web2c/natural.tcx)
 **zinseszins.tex \emergencyend
@@ -25,7 +26,8 @@ system          : cont-sys.rme loaded
 (/usr/share/texmf-dist/tex/context/base/type-one.tex
 (/usr/share/texmf-dist/tex/context/base/type-one.mkii)))
 system          : zinseszins.top loaded
-(./zinseszins.top)
+(./zinseszins.top
+)
 bodyfont        : 12pt rm is loaded
 language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
 ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
@@ -46,6 +48,10 @@ specials        : dvips loaded
 
 systems         : system commands are enabled
 language        : language en is active
+specials        : loading definition file tpd
+(/usr/share/texmf-dist/tex/context/base/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/share/texmf-dist/tex/context/base/spec-fdf.mkii))
 systems         : begin file short_text at line 2
 (./short_text.tex
 color           : mpcmyk color space is supported
@@ -65,23 +71,25 @@ title           : - Der Zinseszins
 subject         : - Was ist Zinseszins?
 subject         : - Ein Beispiel
 subject         : - Die Formel
-! Display math should end with $$.
+./zinseszins.tex:30: Display math should end with $$.
 <to be read again> 
                    K
-l.33    $K
+l.30    $K
           _n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
 
-? 
-! Missing $ inserted.
+./zinseszins.tex:30: Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
                    _
-l.33    $K_
+l.30    $K_
            n$ = Endkapital; $K_0$ = Anfangskapital; $z$ = Zinssatz; $n$ = An...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-? 
-! Missing $ inserted.
+./zinseszins.tex:31: Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
@@ -91,10 +99,12 @@ l.33    $K_
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.34 \stopformula
+l.31 \stopformula
                  
-? 
-! Display math should end with $$.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./zinseszins.tex:31: Display math should end with $$.
 <to be read again> 
                    \par 
 \stopdisplaymath ...\afterdisplayspace \else \par 
@@ -102,50 +112,77 @@ l.34 \stopformula
 
 \dostopformula ...eter \c!alternative \v!formula }
                                                   \resetlastlinewidth \nonoi...
-l.34 \stopformula
+l.31 \stopformula
                  
-? 
-! Double subscript.
-l.37 K_2_
-         5=10'000(1+\frac{5\%}{100})^2^5=33'863.55
-? 
-! Double superscript.
-l.37 K_2_5=10'000(1+\frac{5\%}{100})^2^
-                                       5=33'863.55
-? 
-subject         : - Unterschied zwischen einfachem Zins und Zinseszins
-figures         : dimensions of ./graph/comparison2.eps calculated by rlxtools
-runsystem(texmfstart rlxtools --identify ./graph/comparison2.eps)...disabled (r
-estricted).
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
 
-figures         : dimensions of ./graph/comparison2.eps calculated by rlxtools
-figures         : figure comparison2 can not be found
+./zinseszins.tex:38: Double subscript.
+l.38 K_2_
+         5=1'000(1+\frac{2\%}{100})^5^0=2691.60
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+./zinseszins.tex:38: Double superscript.
+l.38 K_2_5=1'000(1+\frac{2\%}{100})^5^
+                                      0=2691.60
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+subject         : - Unterschied zwischen einfachem Zins und Zinseszins
+fonts           : resetting map file list
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-empty.map}
+fonts           : using map file: original-base
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-base.map}
+fonts           : using map file: original-ams-base
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-base.map}
+fonts           : using map file: original-public-lm
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-public-lm.map}
+fonts           : using map file: lm-ec
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
+fonts           : using map file: lm-math
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-math.map}
+fonts           : using map file: lm-rm
+{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
+fonts           : using map file: original-ams-euler
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-ams-euler.map} <./grap
+h/comparison.pdf>
+figures         : dimensions of comparison loaded from figurefile itself
+(./zinseszins.tuo)
 floatblocks     : 1 saved
 subject         : - Aufgaben
-fonts           : resetting map file list
-fonts           : using map file: original-base
-fonts           : using map file: original-ams-base
-fonts           : using map file: original-public-lm
-fonts           : using map file: lm-ec
-fonts           : using map file: lm-math
-fonts           : using map file: lm-rm
-fonts           : using map file: original-ams-euler
 (/usr/share/texmf-dist/tex/context/base/sort-def.mkii)
 (/usr/share/texmf-dist/tex/context/base/sort-lan.mkii) [1.1]
 floatblocks     : 1 moved
 [2.2]
-systems         : end file zinseszins at line 70
+systems         : end file zinseszins at line 73
 system          : cont-err loaded
 (/usr/share/texmf-dist/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
 ) ) 
 Here is how much of TeX's memory you used:
- 1062 strings out of 457151
- 16845 string characters out of 2543395
- 4696626 words of memory out of 7127524
- 40832 multiletter control sequences out of 15000+200000
- 221625 words of font info for 99 fonts, out of 3000000 for 9000
+ 1595 strings out of 457151
+ 25495 string characters out of 2543395
+ 4714162 words of memory out of 7145060
+ 41345 multiletter control sequences out of 15000+200000
+ 220987 words of font info for 97 fonts, out of 3000000 for 9000
  396 hyphenation exceptions out of 8191
- 42i,21n,57p,1186b,933s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,20n,57p,499b,928s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/f
+onts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm
+.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-
+dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public
+/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type
+1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></
+usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/lm/lmss8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss
+bx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/t
+exmf-dist/fonts/type1/public/lm/lmsy7.pfb>
 
-Output written on zinseszins.dvi (2 pages, 7496 bytes).
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on zinseszins.pdf (2 pages, 207444 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
