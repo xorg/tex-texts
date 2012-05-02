@@ -1,0 +1,78 @@
+\documentclass[11pt,a4paper,openright,oneside,titlepage,fleqn,%
+               headinclude,footinclude,BCOR5mm,%
+               numbers=noenddot,cleardoublepage=empty,%
+               tablecaptionabove]{scrreprt}
+             
+\usepackage[ngerman]{babel}
+\usepackage[ansinew]{inputenc}
+\usepackage[T1]{fontenc}
+%usepackae[final]{microtype}
+%\usepackage{amsmath,amssymb,amsthm}
+\usepackage{varioref}
+\usepackage[style=philosophy-modern,backend=bibtex8,hyperref,square,natbib,ibidtracker=false]{biblatex}
+\usepackage{chngpage}
+\usepackage{mflogo}
+\usepackage{caption,listings,graphicx,subfig}
+\usepackage{calc}
+\usepackage{listings}
+\usepackage{wrapfig}
+\usepackage{subfig}
+\usepackage{multicol}
+\usepackage{makeidx}
+\usepackage{fixltx2e}
+\usepackage{xspace}
+\usepackage{relsize}
+\usepackage{mparhack}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings, dottedtoc]{classicthesis}
+\usepackage{arsclassica}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{framed}
+\usepackage{guit}
+\usepackage[margin=1.4in, a4paper]{geometry}
+\usepackage{wrapfig}
+\input{arsclassica-settings}
+
+%\setlength{\emgencystretch}{1em}
+
+
+\begin{document}
+%\begin{flushleft}
+%\selectlanguage{ngerman}
+\pagenumbering{arabic}
+\pagestyle{plain}
+%******************************************************************
+% Frontmatter
+%******************************************************************
+\input{FrontBackMatter/Titelblatt}
+\input{FrontBackMatter/Titelrückseite}
+\clearpage
+\input{FrontBackMatter/Inhalt}
+\input{FrontBackMatter/Abstract}
+\input{FrontBackMatter/Vorwort}
+\input{FrontBackMatter/Danksagungen}
+\pagestyle{scrheadings}
+\clearpage
+%\input{FrontBackMatter/Inhalt}
+\cleardoublepage
+%******************************************************************
+% Mainmatter
+%******************************************************************
+%\pagenumbering{arabic}
+\input{Chapters/Einleitung}
+\input{Chapters/Kapitel1}
+\input{Chapters/Kapitel3}
+\input{Chapters/Kapitel2}
+\input{Chapters/Schlusswort}
+% *****************************************************************
+% Backmatter
+%******************************************************************
+\clearpage
+\input{FrontBackMatter/Bibliography}
+\input{FrontBackMatter/Abbildungsverzeichnis}
+\input{FrontBackMatter/Anhang}
+\input{FrontBackMatter/Deklaration}
+%\end{flushleft}
+\clearpage
+%\input{FrontBackMatter/Index}
+\end{document}

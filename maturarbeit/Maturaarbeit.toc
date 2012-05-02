@@ -1,0 +1,113 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforechapskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Abstract}}{5}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Vorwort}}{6}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Einleitung}}{7}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Einleitung}{7}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Definition des Begriffs Street-Art}{8}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Street-Art - Entstehung einer Subkultur}}{10}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Historische Vorg\"anger}{10}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Die Graffiti-Subkultur}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Gr\"unde f\"ur die Nicht-Etablierung von Graffiti}{13}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Entwicklung der Street Art}{14}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Street-Art-Ans\"atze und dessen Vertreter}{14}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Blek le Rat und die Pochoiristen}{15}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Shepard Fairey: Propaganda f\"ur Nichts}{16}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Banksys provokative Schablonengraffiti}{17}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Exit Through the Gift Shop}{19}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Street Art in der Schweiz}{20}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Street-Art als angewandte Kunst}}{22}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Bildende und angewandte Kunst}{22}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Werbung als angewandte Kunst}{22}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Street Art und dessen N\"ahe zu Werbung}{23}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Kapitalformen in der Street Art}{24}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Kapitalformen nach Bourdieu}{24}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Kulturelles Kapital}{24}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Soziales Kapital}{25}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Symbolisches Kapital}{25}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Anwendung der Kapitalformen auf die Street Art}{25}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Gemeinsamkeiten von Street Art und bildender Kunst}{26}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Dada}{26}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Situationismus}{27}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Etablierung von Street-Art}}{29}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Was macht den Wert eines Kunstwerkes aus?}{29}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Der Symbolwert von Street-Art-Kunstwerken}{30}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Singularit\"at}{30}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Kunsthistorische Zuschreibung}{31}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Etabliertheit des K\"unstlers}{31}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Orginalit\"atsverheissung}{31}{subsection.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Versprechen auf Dauer}{32}{subsection.4.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Autonomiepostulat}{32}{subsection.4.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.7}Intellektueller Anspruch}{32}{subsection.4.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Vier Stufen der Etablierung eines K\"unstlers}{33}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Anerkennung der Altersgenossen}{34}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Kritik und Theoretischer Diskurs}{34}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Unterst\"utzung von wichtigen H\"andlern und Sammlern}{35}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}\"Offentliche Anerkennung}{35}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Ausstellungen und Galerien}{36}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Fresh Air Smells Funny}{36}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Stroke Urban Art Fair}{37}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Schlusswort}}{39}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Literatur}}{40}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Abbildungsverzeichnis}}{43}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}\spacedlowsmallcaps {Anhang}}{44}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Interview mit Seifrei}{44}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Interview mit Bust}{49}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Interview mit c215}{51}{section.A.3}

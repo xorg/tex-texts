@@ -1,0 +1,19 @@
+%*******************************************************
+% List of Figures
+%*******************************************************    
+%\pdfbookmark{Abbildungsverzeichnis}{abbildungsverzeichnis}
+%\refstepcounter{dummy}
+
+\begingroup 
+    \let\clearpage\relax
+    \let\cleardoublepage\relax
+    \let\cleardoublepage\relax
+    \phantomsection 
+%    \refstepcounter{dummy}
+		\addcontentsline{toc}{chapter}{\tocEntry{Abbildungsverzeichnis}}
+		%\chapter*{Abbildungsverzeichnis}
+    \listoffigures
+    \vspace*{8ex}
+\endgroup
+\cleardoublepage
+

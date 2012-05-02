@@ -1,0 +1,560 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{austin2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Austin}{A.}%
+     {Joe}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Columbia University Press}%
+  }
+  \strng{namehash}{AJ1}
+  \strng{fullhash}{AJ1}
+  \field{labelyear}{2001}
+  \field{sortinit}{A}
+  \field{isbn}{9780231111430}
+  \field{title}{Taking the train: how graffiti art became an urban crisis in
+  New York City}
+  \field{year}{2001}
+\endentry
+
+\entry{sothebys2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Banksy-Prints}{B.-P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BP1}
+  \strng{fullhash}{BP1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Banksy At Auction: Diagnosis Success}
+  \verb{url}
+  \verb http://www.banksy-prints.com/2010/02/banksy-auction-christies-sothebys/
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{banksy2005}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Banksy}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Century}%
+  }
+  \strng{namehash}{B1}
+  \strng{fullhash}{B1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{isbn}{9781844137862}
+  \field{title}{Wall and piece}
+  \field{year}{2005}
+\endentry
+
+\entry{banksy2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Banksy}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{B1}
+  \strng{fullhash}{B1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{howpublished}{Film}
+  \field{title}{Exit Through the Gift Shop}
+  \field{year}{2010}
+\endentry
+
+\entry{baumgardt2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baumgardt}{B.}%
+     {Carsten}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BC1}
+  \strng{fullhash}{BC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{howpublished}{Filmkritik}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Banksy - Exit Through the Gift Shop - Filmkritik}
+  \verb{url}
+  \verb http://www.filmstarts.de/kritiken/105222-Exit-Through-The-Gift-Shop/kri
+  \verb tik.html
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{bultmann2000}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bültmann}{B.}%
+     {Annette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BA1}
+  \strng{fullhash}{BA1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Tiermenschen und Zauberer}
+  \verb{url}
+  \verb http://www.vm2000.net/30/steinzeit/kunst.html
+  \endverb
+  \field{year}{2000}
+\endentry
+
+\entry{bowness1990}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bowness}{B.}%
+     {Alan}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Thames}%
+    {Hudson}%
+  }
+  \strng{namehash}{BA2}
+  \strng{fullhash}{BA2}
+  \field{labelyear}{1990}
+  \field{sortinit}{B}
+  \field{isbn}{9780500550212}
+  \field{title}{The conditions of success: how the modern artist rises to fame}
+  \field{year}{1990}
+\endentry
+
+\entry{derwanz2010}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Derwanz}{D.}%
+     {Heike}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DH1}
+  \strng{fullhash}{DH1}
+  \field{labelyear}{2010}
+  \field{sortinit}{D}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Selling work is one thing... - Street-Art an der Innenseite der
+  Aussenseite der Kunst}
+  \verb{url}
+  \verb http://edoc.hu-berlin.de/kunsttexte/2010-1/derwanz-heike--9/PDF/derwanz
+  \verb .pdf
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{dossi2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dossi}{D.}%
+     {Piroschka}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Dt. Taschenbuch-Verl.}%
+  }
+  \strng{namehash}{DP1}
+  \strng{fullhash}{DP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{isbn}{9783423246125}
+  \field{title}{Hype: Kunst und Geld}
+  \field{year}{2007}
+\endentry
+
+\entry{fairey1990}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fairey}{F.}%
+     {Shepard}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FS1}
+  \strng{fullhash}{FS1}
+  \field{labelyear}{1990}
+  \field{sortinit}{F}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Manifesto}
+  \verb{url}
+  \verb http://obeygiant.com/articles/manifesto
+  \endverb
+  \field{year}{1990}
+\endentry
+
+\entry{finnegan2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Finnegan}{F.}%
+     {Amanda}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FA1}
+  \strng{fullhash}{FA1}
+  \field{labelyear}{2011}
+  \field{sortinit}{F}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{The Chauvet Cave - Cave Painting and Street Art}
+  \verb{url}
+  \verb http://www.portsmouthmfa.org/portsmouthmfa/blog/Entries/2011/6/10_The_C
+  \verb hauvet_Cave_-_Cave_Painting_and_Street_Art.html
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\entry{geilert2009}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Geilert}{G.}%
+     {Gerald}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GG1}
+  \strng{fullhash}{GG1}
+  \field{labelyear}{2009}
+  \field{sortinit}{G}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Street Art - eine verlockende Utopie}
+  \verb{url}
+  \verb http://edoc.hu-berlin.de/kunsttexte/2009-1/geilert-gerald-7/PDF/geilert
+  \verb .pdf
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{graw2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Graw}{G.}%
+     {Isabelle}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {DuMont}%
+  }
+  \strng{namehash}{GI1}
+  \strng{fullhash}{GI1}
+  \field{labelyear}{2008}
+  \field{sortinit}{G}
+  \field{isbn}{9783832190071}
+  \field{title}{Der grosse Preis: Kunst zwischen Markt und Celebrity Kultur}
+  \field{year}{2008}
+\endentry
+
+\entry{haugh2008}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haugh}{H.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HR1}
+  \strng{fullhash}{HR1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{howpublished}{BBC-Online Artikel}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Adam Neate: Art for the people}
+  \verb{url}
+  \verb http://www.bbc.co.uk/suffolk/content/articles/2008/11/13/adam_neate_fea
+  \verb ture.shtml
+  \endverb
+  \field{year}{2008}
+\endentry
+
+\entry{hoppe2009}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hoppe}{H.}%
+     {Illaria}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HI1}
+  \strng{fullhash}{HI1}
+  \field{labelyear}{2009}
+  \field{sortinit}{H}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Street-Art und die Kunst im öffentlichen Raum}
+  \verb{url}
+  \verb http://edoc.hu-berlin.de/kunsttexte/2009-1/hoppe-ilaria-6/PDF/hoppe.pdf
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{jones2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jones}{J.}%
+     {Emmma}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JE1}
+  \strng{fullhash}{JE1}
+  \field{labelyear}{2010}
+  \field{sortinit}{J}
+  \field{howpublished}{BBC-Online Artikel}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Banksy lies low at Berlin Film Festival}
+  \verb{url}
+  \verb http://news.bbc.co.uk/2/hi/entertainment/arts_and_culture/8516172.stm
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{kim2006}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kim}{K.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KA1}
+  \strng{fullhash}{KA1}
+  \field{labelyear}{2006}
+  \field{sortinit}{K}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Antike Graffiti: geritzt, nicht gesprüht}
+  \verb{url}
+  \verb http://www.dieuniversitaet-online.at/beitraege/news/antike-graffiti-ger
+  \verb itzt-nicht-gespruht/10.html
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{klitzke2009}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Klitzke}{K.}%
+     {Kathrin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Archiv der Jugendkulturen}%
+  }
+  \strng{namehash}{KKSC1}
+  \strng{fullhash}{KKSC1}
+  \field{labelyear}{2009}
+  \field{sortinit}{K}
+  \field{isbn}{9783940213440}
+  \field{title}{Street Art: Legenden zur Strasse}
+  \field{year}{2009}
+\endentry
+
+\entry{lewisohn2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lewisohn}{L.}%
+     {Cedar}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Tate}%
+  }
+  \strng{namehash}{LC1}
+  \strng{fullhash}{LC1}
+  \field{labelyear}{2008}
+  \field{sortinit}{L}
+  \field{isbn}{9781854377678}
+  \field{title}{Street art: the graffiti revolution}
+  \field{year}{2008}
+\endentry
+
+\entry{cormick2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McCormick}{M.}%
+     {Marc}{M.}%
+     {}{}%
+     {Carlo und~Schiller}{C.~u.~S.}}%
+  }
+  \list{publisher}{1}{%
+    {Taschen}%
+  }
+  \strng{namehash}{MCuSM1}
+  \strng{fullhash}{MCuSM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{M}
+  \field{isbn}{9783836509640}
+  \field{title}{Trespass: a history of uncommissioned urban art}
+  \field{year}{2010}
+\endentry
+
+\entry{moma1990}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Modern~Art}{M.~A.}%
+     {Museum}{M.}%
+     {of}{o.}%
+     {}{}}%
+  }
+  \strng{namehash}{MAMo1}
+  \strng{fullhash}{MAMo1}
+  \field{labelyear}{1990}
+  \field{sortinit}{M}
+  \field{howpublished}{Katalog}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{High and Low}
+  \verb{url}
+  \verb http://www.moma.org/docs/press_archives/6778/releases/MOMA_1990_0029_31
+  \verb .pdf?2010
+  \endverb
+  \field{year}{1990}
+\endentry
+
+\entry{planitzer2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Planitzer}{P.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PM1}
+  \strng{fullhash}{PM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{P}
+  \field{howpublished}{Video-Interview mit Marco Schwalbe}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Castor and Pollux Dialog 01: Marco Schwalbe / Stroke 03}
+  \verb{url}
+  \verb https://vimeo.com/15682610
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{psaar2007}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Psaar}{P.}%
+     {Hans-Christian}{H.-C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PHC1}
+  \strng{fullhash}{PHC1}
+  \field{labelyear}{2007}
+  \field{sortinit}{P}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Street-Art zwischen Rekuperation und subversivem Potential}
+  \verb{url}
+  \verb http://www.anartchy.com/urbanscript/texte/psaar2.html
+  \endverb
+  \field{year}{2007}
+\endentry
+
+\entry{reinecke2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Reinecke}{R.}%
+     {Julia}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Transcript}%
+  }
+  \strng{namehash}{RJ1}
+  \strng{fullhash}{RJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{R}
+  \field{isbn}{9783899427592}
+  \field{title}{Street Art: eine Subkultur zwischen Kunst und Kommerz}
+  \field{year}{2007}
+\endentry
+
+\entry{schneider2006}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {Ingrid}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Graffiti im Kunstunterricht}
+  \verb{url}
+  \verb http://www.edition-liberty.de/gft/gftzz.html#N41
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{turner1988}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Turner}{T.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TS1}
+  \strng{fullhash}{TS1}
+  \field{labelyear}{1988}
+  \field{sortinit}{T}
+  \field{howpublished}{Interview mit Michael Schirner}
+  \field{note}{Betrachtet am 19.2.12}
+  \field{title}{Werbung ist Kunst}
+  \verb{url}
+  \verb http://serifenlos.de/drupal2006wir/files/schirner.pdf
+  \endverb
+  \field{year}{1988}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
